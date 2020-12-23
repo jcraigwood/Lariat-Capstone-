@@ -5,7 +5,9 @@ In this excercise I was tasked to make financial recommendations about how to ma
 They've provided me with raw data in four Excel worksheets in four seperate workbooks, and asked me to produce the following deliverables based on the raw data and the business objectives:
 
   -An Excel model that they can use to make data-informed decisions about their fleet. This should be based on the observed costs and revenue data from their fleet in recent years.
+  
   -A PowerPoint deck that provides an analysis of the problem and provides recommendations.
+  
   -A live presentation in which you present your findings to a Lariat executive.
  
  I was responsible for doing all the work to transform the raw data into those deliverables.
